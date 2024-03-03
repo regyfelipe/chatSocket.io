@@ -17,9 +17,9 @@ git clone https://github.com/regyfelipe/chatSocket.io.git
 ```
 ## Detalhes da implementação
 1. Arquivos
-index.html: Contém a estrutura HTML do chat.
-style.css: Arquivo de estilo para o chat.
-server.js: Servidor Node.js que gerencia a comunicação via Socket.io.
+- index.html: Contém a estrutura HTML do chat.
+- style.css: Arquivo de estilo para o chat.
+- server.js: Servidor Node.js que gerencia a comunicação via Socket.io.
 
 
 ## Tecnologias utilizadas
